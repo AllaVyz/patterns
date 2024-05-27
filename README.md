@@ -1,1 +1,1 @@
-[![.github/workflows/gradle.yml](https://github.com/AllaVyz/patterns/actions/workflows/gradle.yml/badge.svg)](https://github.com/AllaVyz/patterns/actions/workflows/gradle.yml)
+[![.github/workflows/gradle.yml](https://github.com/AllaVyz/patterns/actions/workflows/gradle.yml/badge.svg)](https://github.c[![.github/workflows/gradle.yml](https://github.com/AllaVyz/patterns/actions/workflows/gradle.yml/badge.svg)](https://github.com/AllaVyz/patterns/actions/workflows/gradle.yml)
